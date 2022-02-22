@@ -17,7 +17,6 @@ This Project is aimed at generation of descriptions from the image using multimo
 
 [***Observations & Learnings***](https://github.com/knspavankumar/Automatic-Image-Captioning#Observations&Learnings)
 
-[***Real Time Captioning***](https://github.com/knspavankumar/Automatic-Image-Captioning#RealTimeCaptioning)
 
 # Objective
 
@@ -32,5 +31,13 @@ This Project is aimed at generation of descriptions from the image using multimo
 ---
 
 # Data Set
+
+---
+
+# Outcomes 
+
+---
+
+# Observations & Learnings 
 
 ---
