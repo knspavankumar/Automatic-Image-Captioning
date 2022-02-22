@@ -13,6 +13,11 @@ This Project is aimed at generation of descriptions from the image using multimo
 
 [***Data Set***](https://github.com/knspavankumar/Automatic-Image-Captioning#DataSet)
 
+[***Outcomes***](https://github.com/knspavankumar/Automatic-Image-Captioning#Outcomes)
+
+[***Observations & Learnings***](https://github.com/knspavankumar/Automatic-Image-Captioning#Observations&Learnings)
+
+[***Real Time Captioning***](https://github.com/knspavankumar/Automatic-Image-Captioning#RealTimeCaptioning)
 
 # Objective
 
