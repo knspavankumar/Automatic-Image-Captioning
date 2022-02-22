@@ -1,22 +1,6 @@
 # Automatic-Image-Captioning
 This Project is aimed at generation of descriptions from the image using multimodal neural networks and natural language process in recognizing. This model architecture recognizes the context of the image and describes them in nature language (here English)  The outcomes can be used in virtual assistants, image indexing, help visually impaired persons etc.
 
-This is a **[PyTorch](https://pytorch.org) Tutorial to Image Captioning**.
-
-This is the first in [a series of tutorials](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch) I'm writing about _implementing_ cool models on your own with the amazing PyTorch library.
-
-Basic knowledge of PyTorch, convolutional and recurrent neural networks is assumed.
-
-If you're new to PyTorch, first read [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) and [Learning PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html).
-
-Questions, suggestions, or corrections can be posted as issues.
-
-I'm using `PyTorch 0.4` in `Python 3.6`.
-
----
-
-**27 Jan 2020**: Working code for two new tutorials has been added — [Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution) and [Machine Translation](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Machine-Translation)
-
 ---
 
 # Contents
